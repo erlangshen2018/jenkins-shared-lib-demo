@@ -1,0 +1,1 @@
+Hello ${name}, this message is from a shared library template file.
